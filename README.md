@@ -66,7 +66,7 @@ All results are saved to `results/`:
 | `toi_population.png` | Period, depth, and SNR distributions of the candidate pool |
 | `TOI_XXXX_batman.png` | 4-panel diagnostic figure for each individual target |
 | `catalog_vs_fitted_depth.png` | Batman-fitted depths vs. SPOC catalog depths |
-| `contamination_vs_depth_ratio.png` | Main result — dilution analysis across all targets |
+| `contamination_vs_depth_ratio.png` | Main result: dilution analysis across all targets |
 | `toi_batman_results.csv` | Full results table with all fitted parameters |
 
 ## Limitations
